@@ -26,6 +26,7 @@ aside {
 }
 
 footer {
+    background: #181822;
     grid-area: f;
 }
 
